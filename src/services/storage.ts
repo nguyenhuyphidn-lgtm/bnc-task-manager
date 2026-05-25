@@ -136,8 +136,19 @@ export async function getProjects(): Promise<Project[]> {
     try {
       const querySnapshot = await getDocs(collection(db, 'projects'));
       const projects: Project[] = [];
-      querySnapshot.forEach((doc) => {
-        projects.push(doc.data() as Project);
+      querySnapshot.forEach((docSnap) => {
+        const raw = docSnap.data() as any;
+        projects.push({
+          id: docSnap.id || raw.id || '',
+          name: (raw.name || raw.title || '').toUpperCase(),
+          code: raw.code || '',
+          category: raw.category || 'Hạ tầng',
+          manager: raw.manager || 'Huy Phi',
+          status: raw.status || 'Đang triển khai',
+          notes: raw.notes || raw.note || '',
+          createdAt: raw.createdAt || '',
+          updatedAt: raw.updatedAt || ''
+        } as Project);
       });
       
       // If Firestore is empty, seed it from local and return
@@ -156,10 +167,7 @@ export async function getProjects(): Promise<Project[]> {
         }));
       }
       
-      return projects.map((p: Project) => ({
-        ...p,
-        name: p.name.toUpperCase()
-      }));
+      return projects;
     } catch (e) {
       console.error("Firestore error, falling back to LocalStorage:", e);
     }
@@ -225,8 +233,38 @@ export async function getTasks(): Promise<Task[]> {
     try {
       const querySnapshot = await getDocs(collection(db, 'tasks'));
       const tasks: Task[] = [];
-      querySnapshot.forEach((doc) => {
-        tasks.push(doc.data() as Task);
+      querySnapshot.forEach((docSnap) => {
+        const raw = docSnap.data() as any;
+        
+        let cleanedPriority = raw.priority || 'Trung bình';
+        if (typeof cleanedPriority === 'string') {
+          if (cleanedPriority.includes('Cao')) cleanedPriority = 'Cao';
+          else if (cleanedPriority.includes('Thấp')) cleanedPriority = 'Thấp';
+          else cleanedPriority = 'Trung bình';
+        }
+
+        const task: Task = {
+          id: docSnap.id || raw.id || '',
+          projectId: raw.projectId || '',
+          projectName: raw.projectName || '',
+          type: raw.type || 'project',
+          parentTaskId: raw.parentTaskId || null,
+          name: raw.name || raw.title || '',
+          description: raw.description || '',
+          assignee: raw.assignee || '',
+          collaborators: raw.collaborators || [],
+          startDate: raw.startDate || raw.assignedDate || '',
+          dueDate: raw.dueDate || raw.deadline || null,
+          status: raw.status || 'Chưa thực hiện',
+          progress: typeof raw.progress === 'number' ? raw.progress : (raw.status === 'Hoàn thành' ? 100 : 0),
+          priority: cleanedPriority as any,
+          notes: raw.notes || raw.note || '',
+          createdBy: raw.createdBy || '',
+          updatedAt: raw.updatedAt || '',
+          checklist: raw.checklist || [],
+          history: raw.history || []
+        };
+        tasks.push(task);
       });
       
       // If Firestore is empty, seed it
@@ -234,7 +272,6 @@ export async function getTasks(): Promise<Task[]> {
         console.log("Firestore tasks collection is empty, seeding from local data...");
         const localTasks = JSON.parse(localStorage.getItem(STORAGE_KEYS.TASKS) || '[]');
         const batch = writeBatch(db);
-        // Firestore batches can handle up to 500 operations, our data is ~58 tasks, which is safe
         localTasks.forEach((t: Task) => {
           const docRef = doc(db, 'tasks', t.id);
           batch.set(docRef, t);
@@ -246,10 +283,7 @@ export async function getTasks(): Promise<Task[]> {
         }));
       }
       
-      return tasks.map((t: Task) => ({
-        ...t,
-        projectName: t.projectName ? t.projectName.toUpperCase() : ''
-      }));
+      return tasks;
     } catch (e) {
       console.error("Firestore error for tasks, falling back to LocalStorage:", e);
     }
