@@ -1,0 +1,8 @@
+{
+  "appId": "com.banhatang.app",
+  "appName": "BAN HẠ TẦNG",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

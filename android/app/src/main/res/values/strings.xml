@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BAN HẠ TẦNG</string>
+    <string name="title_activity_main">BAN HẠ TẦNG</string>
+    <string name="package_name">com.banhatang.app</string>
+    <string name="custom_url_scheme">com.banhatang.app</string>
+</resources>

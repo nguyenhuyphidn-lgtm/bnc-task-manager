@@ -1,0 +1,1858 @@
+{
+  "projects": [
+    {
+      "id": "project-management",
+      "name": "CÔNG TÁC QUẢN LÝ",
+      "code": "DA-QL",
+      "category": "Quản lý",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "Dự án quản lý chung cho Ban Kỹ thuật Hạ tầng",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-1",
+      "name": "CÁC GÓI THEO IDP",
+      "code": "DA-01",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.541Z",
+      "updatedAt": "2026-05-21T13:55:12.541Z"
+    },
+    {
+      "id": "project-2",
+      "name": "TIẾT KIỆM NĂNG LƯỢNG",
+      "code": "DA-02",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.541Z",
+      "updatedAt": "2026-05-21T13:55:12.541Z"
+    },
+    {
+      "id": "project-3",
+      "name": "DI DỜI XƯỞNG XÚC XÍCH - KHO TỔNG",
+      "code": "DA-03",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.541Z",
+      "updatedAt": "2026-05-21T13:55:12.541Z"
+    },
+    {
+      "id": "project-4",
+      "name": "MÁNG TRƯỢT 3",
+      "code": "DA-04",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.541Z",
+      "updatedAt": "2026-05-21T13:55:12.541Z"
+    },
+    {
+      "id": "project-5",
+      "name": "NHÀ MÁY BEER",
+      "code": "DA-05",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.541Z",
+      "updatedAt": "2026-05-21T13:55:12.541Z"
+    },
+    {
+      "id": "project-6",
+      "name": "DỰ ÁN CASINO",
+      "code": "DA-06",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.541Z",
+      "updatedAt": "2026-05-21T13:55:12.541Z"
+    },
+    {
+      "id": "project-7",
+      "name": "CẢI TẠO CẢNH QUAN NHÀ HÀNG THÁI MARKET",
+      "code": "DA-07",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-8",
+      "name": "NHÀ MÁY BÁNH MỲ PHÁP",
+      "code": "DA-08",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-9",
+      "name": "NHÀ HÀNG B07C",
+      "code": "DA-09",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-10",
+      "name": "TUYẾN CÁP 8",
+      "code": "DA-10",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-11",
+      "name": "TRỒNG NHO",
+      "code": "DA-11",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-12",
+      "name": "TUYẾN CẤP NƯỚC TRÊN ĐỈNH BÀ NÀ",
+      "code": "DA-12",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-13",
+      "name": "TUYẾN CÁP TREO 11",
+      "code": "DA-13",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-14",
+      "name": "THIẾT KẾ LẠI FENCHA + KEM CHÚ BIỂU",
+      "code": "DA-14",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-15",
+      "name": "SUNHOME",
+      "code": "DA-15",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-16",
+      "name": "HT XỬ LÝ NƯỚC THẢI",
+      "code": "DA-16",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-17",
+      "name": "DI DỜI XƯỞNG XÚC XÍCH",
+      "code": "DA-17",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-18",
+      "name": "HỆ THỐNG NƯỚC ÉP TRÁI CÂY",
+      "code": "DA-18",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-19",
+      "name": "NHÀ GA 21",
+      "code": "DA-19",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-20",
+      "name": "NHÀ HÀNG B05",
+      "code": "DA-20",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-21",
+      "name": "ĐIỂM BÁN B04",
+      "code": "DA-21",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-22",
+      "name": "LÀM MÁNG TRƯỢT KHU LÂU ĐÀI",
+      "code": "DA-22",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-24",
+      "name": "ZIILINE",
+      "code": "DA-24",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-25",
+      "name": "SÀN CHỤP HÌNH KHU CẦU VÀNG",
+      "code": "DA-25",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    },
+    {
+      "id": "project-26",
+      "name": "INPANO HẦM RƯỢU",
+      "code": "DA-26",
+      "category": "Hạ tầng",
+      "manager": "Huy Phi",
+      "status": "Đang triển khai",
+      "notes": "",
+      "createdAt": "2026-05-21T13:55:12.542Z",
+      "updatedAt": "2026-05-21T13:55:12.542Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "CV-2026-001",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Mời PMU họp về Defect tuyến 8 và chống sét tuyến 6",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.539Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.540Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-002",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Kế hoạch cá nhân cho năm 2026",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-003",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Làm cầu + Đổ sàn mở rộng khu nhập thực khu ga19",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-004",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Tập trung vào thực hiện TQM",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-005",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Đánh giá hiệu quả đầu tư các dự án",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-006",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Tham gia các buổi BRF của các  tổ đội (2 buổi/tuần)",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-007",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Báo cáo KPI",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-008",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Báo cáo TQM",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-009",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Sáng kiến cải tiến",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-010",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Quản lý năng lượng",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-011",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Tổng mức cho IPPJ",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-012",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Học MINI MBA",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-013",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Chương trình SGEN",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-014",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Học tiếng anh Đại học Ngoại Ngũ",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-015",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Học tiếng anh do Tập đoàn",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-016",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Chương trình Đại Sứ Văn hóa",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-017",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Nộp bảng KPI",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": "2026-05-19",
+      "status": "Quá hạn",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-018",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Rà soát & đề xuất giải pháp tối ưu vận hành, nâng cao năng suất lao động 2026",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-019",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Viết phần mềm cho Ban",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-020",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Lập OKR",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-021",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Lập phương án nâng cao hiệu quả nhân sự",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-022",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Đào tạo Tuyên ngôn giá trị chất lượng Phòng",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-023",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Bài tập MBA",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-024",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Đánh giá mức độ Trưởng thành Văn hóa Sun World Ba Na Hills",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": "2026-05-21",
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-025",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Phương án nâng cáo chất lượng công việc",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-026",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Thi kỹ năng Quản trị truyền thông trên LML",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": "2026-05-20",
+      "status": "Quá hạn",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-027",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Báo cáo BIDV",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": "2026-05-21",
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-028",
+      "projectId": "project-management",
+      "projectName": "CÔNG TÁC QUẢN LÝ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Báo cáo TQM",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": "2026-05-20",
+      "status": "Quá hạn",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-029",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Đảm bảo công tác môi trường trong quá trình thi công các dự án",
+      "description": "",
+      "assignee": "Luân",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-030",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Xây dựng tiêu chuẩn đối với cơ sở vật chất - làm cơ sở cho việc triển khai các dự án tại Khu du lịch Bà Nà",
+      "description": "",
+      "assignee": "Nguyên",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-031",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Chiến lược cho Ban hạ tầng giai đoạn 2026–2030. (Tập trung chủ yếu vào cơ sở vật chất)",
+      "description": "",
+      "assignee": "Triết",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-032",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Nâng cáo chất lượng cuộc sống của công nhân nhà thầu thi công tại dự án Bà Nà",
+      "description": "",
+      "assignee": "Bách + Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-033",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Lập quy trình phối hợp giữa BNC và PMU (và các Ban chức năng) trong công tác triển khai dự án mới",
+      "description": "",
+      "assignee": "Trang",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-034",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Kiểm soát rủi ro trong quá trình thi công tại dự án",
+      "description": "",
+      "assignee": "Bách + Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-035",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Dự án chuyển đổi số vận hành hạ tầng",
+      "description": "",
+      "assignee": "Khánh",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-036",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": "CV-2026-035",
+      "name": "Dự án kiểm soát tập trung các thông số tủ điện",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-037",
+      "projectId": "project-1",
+      "projectName": "CÁC GÓI THEO IDP",
+      "type": "project",
+      "parentTaskId": "CV-2026-035",
+      "name": "Kiểm soát nhiệt độ hệ thống điều hoà bằng hệ thống tự động",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-038",
+      "projectId": "project-2",
+      "projectName": "TIẾT KIỆM NĂNG LƯỢNG",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Năng lượng Điện",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-039",
+      "projectId": "project-2",
+      "projectName": "TIẾT KIỆM NĂNG LƯỢNG",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Tiết kiệm nước",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-040",
+      "projectId": "project-2",
+      "projectName": "TIẾT KIỆM NĂNG LƯỢNG",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Tiết kiệm chi phí vận hành hệ thống XLNT",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-041",
+      "projectId": "project-4",
+      "projectName": "MÁNG TRƯỢT 3",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Điểm bán vé tập trung",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-042",
+      "projectId": "project-4",
+      "projectName": "MÁNG TRƯỢT 3",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Mở lối đi mới cho MT2",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-043",
+      "projectId": "project-4",
+      "projectName": "MÁNG TRƯỢT 3",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Đèn chiếu sáng MT3",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-044",
+      "projectId": "project-5",
+      "projectName": "NHÀ MÁY BEER",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Kết nối G6 qua Xưởng Beer",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-045",
+      "projectId": "project-5",
+      "projectName": "NHÀ MÁY BEER",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Rượu Whisky",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.541Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.541Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-046",
+      "projectId": "project-6",
+      "projectName": "DỰ ÁN CASINO",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Clinic + nhà hàng nướng Brazil",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-047",
+      "projectId": "project-6",
+      "projectName": "DỰ ÁN CASINO",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Công năng 11 phòng làm điểm bán",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-048",
+      "projectId": "project-6",
+      "projectName": "DỰ ÁN CASINO",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Khu Loby khối nối cầu 1",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-049",
+      "projectId": "project-6",
+      "projectName": "DỰ ÁN CASINO",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Báo cáo phương án vận hành cho các chòi canh",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-050",
+      "projectId": "project-6",
+      "projectName": "DỰ ÁN CASINO",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Công năng của Retail (bao gồm khu Casino)",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-051",
+      "projectId": "project-7",
+      "projectName": "CẢI TẠO CẢNH QUAN NHÀ HÀNG THÁI MARKET",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Thiết kế lại",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-052",
+      "projectId": "project-8",
+      "projectName": "NHÀ MÁY BÁNH MỲ PHÁP",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Phần bổ sung",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-053",
+      "projectId": "project-9",
+      "projectName": "NHÀ HÀNG B07C",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Chốt lại thiết kế",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-054",
+      "projectId": "project-10",
+      "projectName": "TUYẾN CÁP 8",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "List defect",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-055",
+      "projectId": "project-12",
+      "projectName": "TUYẾN CẤP NƯỚC TRÊN ĐỈNH BÀ NÀ",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Gửi công văn xin cấp nước cho GĐ2",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-056",
+      "projectId": "project-15",
+      "projectName": "SUNHOME",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Thuê đơn vị QL vận hành tòa nhà",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-057",
+      "projectId": "project-19",
+      "projectName": "NHÀ GA 21",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Đầu bài cho các điểm bán",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    },
+    {
+      "id": "CV-2026-058",
+      "projectId": "project-25",
+      "projectName": "SÀN CHỤP HÌNH KHU CẦU VÀNG",
+      "type": "project",
+      "parentTaskId": null,
+      "name": "Bar club tại điểm kết nối cầu A2",
+      "description": "",
+      "assignee": "Huy Phi",
+      "collaborators": [],
+      "startDate": "2026-05-21",
+      "dueDate": null,
+      "status": "Đang thực hiện",
+      "progress": 0,
+      "priority": "Trung bình",
+      "notes": "",
+      "createdBy": "nguyenhuyphidn@gmail.com",
+      "updatedAt": "2026-05-21T13:55:12.542Z",
+      "history": [
+        {
+          "date": "2026-05-21T13:55:12.542Z",
+          "user": "System",
+          "action": "Imported from Excel"
+        }
+      ],
+      "checklist": []
+    }
+  ]
+}
